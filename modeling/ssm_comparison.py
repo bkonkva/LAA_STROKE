@@ -288,6 +288,22 @@ def get_pvals(df):
     # dfp = dfp.reset_index(drop=True)
     return dfp
 
+def MLP_by_comp(X=[],y=[],dfp=[]):
+    ml_name='Multilayer Perceptron'
+    print('Running {} ...'.format(ml_name))
+    components = []
+    AUC = [0]
+    for ic,c in enumerate(dfp['components']):
+        components=components+[c]
+        if ic==0:
+            continue
+        Xcur = X[components]
+        y_pred = run_MLP(X=Xcur,y=y)
+        AUC = AUC + [roc_auc_score(y,y_pred)]
+    dfp['AUC'] = AUC
+    # print(dfp)
+    return dfp
+
 def logreg_by_comp(X=[],y=[],dfp=[]):
     ml_name='Logistic Regression'
     print('Running {} ...'.format(ml_name))
@@ -398,6 +414,11 @@ def correspondence_comparison(subplot_item = 321, nb_corr = 256,var_cutoff=0.95)
     ax.set_title('(var,#corr) :: ({0:0.2f},{1})'.format(var_cutoff,nb_corr))
     plt.tight_layout()    
 
+    dfp = MLP_by_comp(X=X,y=y,dfp=dfp0)
+    plt.figure(num=1004, figsize=(8,6))
+    ax = plot_by_comp(subplot_item=subplot_item,ylabel='AUC for Multilayer Perc',dfp=dfp,nb_comps=len(dfp['components']))
+    ax.set_title('(var,#corr) :: ({0:0.2f},{1})'.format(var_cutoff,nb_corr))
+    plt.tight_layout()    
     
 
 def main():
