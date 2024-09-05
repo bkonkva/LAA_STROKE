@@ -402,11 +402,11 @@ def correspondence_comparison(subplot_item = 321, nb_corr = 256,var_cutoff=0.95)
     X,y,dfp0 = prep_by_comp(nb_corr = nb_corr,var_cutoff=var_cutoff)
 
     # compare_ml_models(X=X,y=y)
-    dfp = svm_by_comp(X=X,y=y,dfp=dfp0)
-    plt.figure(num=1002, figsize=(8,6))
-    ax = plot_by_comp(subplot_item=subplot_item,ylabel='AUC for Linear SVC',dfp=dfp,nb_comps=len(dfp['components']))
-    ax.set_title('(var,#corr) :: ({0:0.2f},{1})'.format(var_cutoff,nb_corr))
-    plt.tight_layout()
+    # dfp = svm_by_comp(X=X,y=y,dfp=dfp0)
+    # plt.figure(num=1002, figsize=(8,6))
+    # ax = plot_by_comp(subplot_item=subplot_item,ylabel='AUC for Linear SVC',dfp=dfp,nb_comps=len(dfp['components']))
+    # ax.set_title('(var,#corr) :: ({0:0.2f},{1})'.format(var_cutoff,nb_corr))
+    # plt.tight_layout()
 
     dfp = logreg_by_comp(X=X,y=y,dfp=dfp0)
     plt.figure(num=1003, figsize=(8,6))
@@ -414,11 +414,11 @@ def correspondence_comparison(subplot_item = 321, nb_corr = 256,var_cutoff=0.95)
     ax.set_title('(var,#corr) :: ({0:0.2f},{1})'.format(var_cutoff,nb_corr))
     plt.tight_layout()    
 
-    dfp = MLP_by_comp(X=X,y=y,dfp=dfp0)
-    plt.figure(num=1004, figsize=(8,6))
-    ax = plot_by_comp(subplot_item=subplot_item,ylabel='AUC for Multilayer Perc',dfp=dfp,nb_comps=len(dfp['components']))
-    ax.set_title('(var,#corr) :: ({0:0.2f},{1})'.format(var_cutoff,nb_corr))
-    plt.tight_layout()    
+    # dfp = MLP_by_comp(X=X,y=y,dfp=dfp0)
+    # plt.figure(num=1004, figsize=(8,6))
+    # ax = plot_by_comp(subplot_item=subplot_item,ylabel='AUC for Multilayer Perc',dfp=dfp,nb_comps=len(dfp['components']))
+    # ax.set_title('(var,#corr) :: ({0:0.2f},{1})'.format(var_cutoff,nb_corr))
+    # plt.tight_layout()    
     
 
 def main():
