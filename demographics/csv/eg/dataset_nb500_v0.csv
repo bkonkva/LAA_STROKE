@@ -1,0 +1,501 @@
+,Age,Race,Ethnicity,Gender,Stroke,Afib
+0,30-34,"White, alone",Hispanic,female,True,True
+1,50-54,"White, alone",Hispanic,female,True,False
+2,60-64,"White, alone",Hispanic,female,True,True
+3,75-79,"Black or African American, alone",Hispanic,female,False,True
+4,85+,"Black or African American, alone",Hispanic,female,True,True
+5,20-24,"Black or African American, alone",non_Hispanic,female,True,True
+6,25-29,"White, alone",non_Hispanic,female,False,True
+7,25-29,"White, alone",non_Hispanic,female,True,False
+8,30-34,"White, alone",non_Hispanic,female,True,False
+9,30-34,"White, alone",non_Hispanic,female,False,False
+10,30-34,"White, alone",non_Hispanic,female,True,True
+11,35-39,"White, alone",non_Hispanic,female,False,False
+12,35-39,"White, alone",non_Hispanic,female,True,True
+13,35-39,"White, alone",non_Hispanic,female,True,True
+14,35-39,"White, alone",non_Hispanic,female,True,False
+15,35-39,"Black or African American, alone",non_Hispanic,female,True,True
+16,35-39,Two or more races,non_Hispanic,female,False,False
+17,40-44,"White, alone",non_Hispanic,female,True,False
+18,40-44,"White, alone",non_Hispanic,female,False,False
+19,40-44,"White, alone",non_Hispanic,female,False,True
+20,40-44,"White, alone",non_Hispanic,female,True,False
+21,40-44,"White, alone",non_Hispanic,female,True,True
+22,40-44,"Black or African American, alone",non_Hispanic,female,False,True
+23,40-44," Asian, alone",non_Hispanic,female,True,True
+24,45-49,"White, alone",non_Hispanic,female,False,False
+25,45-49,"Black or African American, alone",non_Hispanic,female,False,True
+26,45-49,"Black or African American, alone",non_Hispanic,female,True,False
+27,50-54,"White, alone",non_Hispanic,female,True,True
+28,50-54,"Black or African American, alone",non_Hispanic,female,True,True
+29,50-54,"Black or African American, alone",non_Hispanic,female,True,True
+30,50-54,"Black or African American, alone",non_Hispanic,female,True,False
+31,55-59,"White, alone",non_Hispanic,female,False,True
+32,55-59,"White, alone",non_Hispanic,female,False,False
+33,55-59,"White, alone",non_Hispanic,female,True,False
+34,55-59,"White, alone",non_Hispanic,female,True,False
+35,55-59,"White, alone",non_Hispanic,female,False,True
+36,55-59,"Black or African American, alone",non_Hispanic,female,False,False
+37,55-59,"Black or African American, alone",non_Hispanic,female,True,False
+38,55-59,"Black or African American, alone",non_Hispanic,female,True,False
+39,60-64,"White, alone",non_Hispanic,female,True,False
+40,60-64,"White, alone",non_Hispanic,female,False,False
+41,60-64,"White, alone",non_Hispanic,female,False,True
+42,60-64,"Black or African American, alone",non_Hispanic,female,False,True
+43,60-64,"Black or African American, alone",non_Hispanic,female,False,False
+44,60-64,"Black or African American, alone",non_Hispanic,female,True,True
+45,60-64,"Black or African American, alone",non_Hispanic,female,False,True
+46,60-64," Asian, alone",non_Hispanic,female,True,False
+47,75-79,"White, alone",non_Hispanic,female,False,False
+48,85+,"White, alone",non_Hispanic,female,False,False
+49,85+,"Black or African American, alone",non_Hispanic,female,True,False
+50,85+,"American Indian and Alaska Native, alone",non_Hispanic,female,True,False
+51,85+,Two or more races,non_Hispanic,female,False,True
+52,25-29,"White, alone",Hispanic,male,False,True
+53,25-29,"White, alone",Hispanic,male,False,False
+54,30-34,"White, alone",Hispanic,male,True,True
+55,30-34,"Black or African American, alone",Hispanic,male,False,False
+56,35-39,"White, alone",Hispanic,male,False,False
+57,35-39,Two or more races,Hispanic,male,True,True
+58,40-44,"White, alone",Hispanic,male,False,False
+59,45-49,"White, alone",Hispanic,male,True,True
+60,50-54,"White, alone",Hispanic,male,False,False
+61,50-54,"White, alone",Hispanic,male,True,True
+62,50-54,"White, alone",Hispanic,male,True,False
+63,50-54,"White, alone",Hispanic,male,False,True
+64,50-54,"Black or African American, alone",Hispanic,male,True,True
+65,50-54,"Black or African American, alone",Hispanic,male,False,True
+66,55-59,"White, alone",Hispanic,male,True,False
+67,55-59,"White, alone",Hispanic,male,True,False
+68,55-59,"White, alone",Hispanic,male,False,True
+69,60-64,"White, alone",Hispanic,male,False,True
+70,60-64,"White, alone",Hispanic,male,False,True
+71,60-64,"White, alone",Hispanic,male,False,True
+72,60-64,"Black or African American, alone",Hispanic,male,True,True
+73,65-69,"White, alone",Hispanic,male,False,False
+74,65-69,"White, alone",Hispanic,male,False,False
+75,65-69,"White, alone",Hispanic,male,True,False
+76,70-74,"White, alone",Hispanic,male,True,True
+77,70-74,"White, alone",Hispanic,male,False,True
+78,70-74,"White, alone",Hispanic,male,True,True
+79,70-74,"White, alone",Hispanic,male,False,True
+80,75-79,"White, alone",Hispanic,male,False,True
+81,75-79,"White, alone",Hispanic,male,True,True
+82,80-84,"White, alone",Hispanic,male,False,True
+83,80-84,"White, alone",Hispanic,male,True,True
+84,80-84,"White, alone",Hispanic,male,True,False
+85,85+,"White, alone",Hispanic,male,True,False
+86,85+,"White, alone",Hispanic,male,True,False
+87,20-24,"White, alone",non_Hispanic,male,True,False
+88,20-24,"White, alone",non_Hispanic,male,False,True
+89,20-24,"White, alone",non_Hispanic,male,False,False
+90,25-29,"White, alone",non_Hispanic,male,False,False
+91,25-29,"White, alone",non_Hispanic,male,True,True
+92,25-29,"White, alone",non_Hispanic,male,False,False
+93,25-29,"White, alone",non_Hispanic,male,True,True
+94,25-29,"White, alone",non_Hispanic,male,False,True
+95,25-29,"White, alone",non_Hispanic,male,True,True
+96,25-29,"White, alone",non_Hispanic,male,False,True
+97,25-29,"White, alone",non_Hispanic,male,False,False
+98,25-29,"White, alone",non_Hispanic,male,True,False
+99,25-29,"Black or African American, alone",non_Hispanic,male,True,True
+100,25-29,"Black or African American, alone",non_Hispanic,male,False,False
+101,25-29,Two or more races,non_Hispanic,male,True,True
+102,30-34,"White, alone",non_Hispanic,male,True,True
+103,30-34,"White, alone",non_Hispanic,male,True,True
+104,30-34,"White, alone",non_Hispanic,male,True,False
+105,30-34,"White, alone",non_Hispanic,male,False,True
+106,30-34,"White, alone",non_Hispanic,male,True,True
+107,30-34,"White, alone",non_Hispanic,male,True,True
+108,30-34,"White, alone",non_Hispanic,male,True,False
+109,30-34,"White, alone",non_Hispanic,male,False,False
+110,30-34,"White, alone",non_Hispanic,male,False,False
+111,30-34,"White, alone",non_Hispanic,male,True,True
+112,30-34,"White, alone",non_Hispanic,male,False,False
+113,30-34,"White, alone",non_Hispanic,male,False,False
+114,30-34,"White, alone",non_Hispanic,male,False,False
+115,30-34,"White, alone",non_Hispanic,male,True,True
+116,30-34,"Black or African American, alone",non_Hispanic,male,True,False
+117,30-34,"American Indian and Alaska Native, alone",non_Hispanic,male,True,True
+118,30-34,"American Indian and Alaska Native, alone",non_Hispanic,male,False,False
+119,30-34,Two or more races,non_Hispanic,male,True,True
+120,35-39,"White, alone",non_Hispanic,male,False,False
+121,35-39,"White, alone",non_Hispanic,male,False,True
+122,35-39,"White, alone",non_Hispanic,male,False,False
+123,35-39,"White, alone",non_Hispanic,male,True,False
+124,35-39,"White, alone",non_Hispanic,male,False,False
+125,35-39,"White, alone",non_Hispanic,male,False,True
+126,35-39,"White, alone",non_Hispanic,male,False,True
+127,35-39,"White, alone",non_Hispanic,male,True,False
+128,35-39,"White, alone",non_Hispanic,male,True,False
+129,35-39,"White, alone",non_Hispanic,male,True,False
+130,35-39,"White, alone",non_Hispanic,male,False,True
+131,35-39,"White, alone",non_Hispanic,male,False,True
+132,35-39,"White, alone",non_Hispanic,male,False,False
+133,35-39,"White, alone",non_Hispanic,male,True,False
+134,35-39,"White, alone",non_Hispanic,male,True,False
+135,35-39,"White, alone",non_Hispanic,male,False,True
+136,35-39,"White, alone",non_Hispanic,male,True,True
+137,35-39,"White, alone",non_Hispanic,male,True,True
+138,35-39,"White, alone",non_Hispanic,male,True,True
+139,35-39,"White, alone",non_Hispanic,male,False,False
+140,35-39,"White, alone",non_Hispanic,male,True,False
+141,35-39,"White, alone",non_Hispanic,male,True,True
+142,35-39,"White, alone",non_Hispanic,male,False,True
+143,35-39,"Black or African American, alone",non_Hispanic,male,True,False
+144,35-39,"Black or African American, alone",non_Hispanic,male,True,False
+145,35-39,"Some other race, alone",non_Hispanic,male,False,False
+146,40-44,"White, alone",non_Hispanic,male,False,False
+147,40-44,"White, alone",non_Hispanic,male,False,True
+148,40-44,"White, alone",non_Hispanic,male,False,False
+149,40-44,"White, alone",non_Hispanic,male,False,False
+150,40-44,"White, alone",non_Hispanic,male,False,False
+151,40-44,"White, alone",non_Hispanic,male,True,False
+152,40-44,"White, alone",non_Hispanic,male,True,True
+153,40-44,"White, alone",non_Hispanic,male,True,True
+154,40-44,"White, alone",non_Hispanic,male,True,True
+155,40-44,"White, alone",non_Hispanic,male,False,True
+156,40-44,"White, alone",non_Hispanic,male,True,True
+157,40-44,"White, alone",non_Hispanic,male,False,False
+158,40-44,"White, alone",non_Hispanic,male,True,True
+159,40-44,"White, alone",non_Hispanic,male,True,False
+160,40-44,"White, alone",non_Hispanic,male,False,False
+161,40-44,"White, alone",non_Hispanic,male,True,False
+162,40-44,"Black or African American, alone",non_Hispanic,male,True,True
+163,40-44,"Black or African American, alone",non_Hispanic,male,False,True
+164,40-44,Two or more races,non_Hispanic,male,False,True
+165,45-49,"White, alone",non_Hispanic,male,True,True
+166,45-49,"White, alone",non_Hispanic,male,False,True
+167,45-49,"White, alone",non_Hispanic,male,False,True
+168,45-49,"White, alone",non_Hispanic,male,True,True
+169,45-49,"White, alone",non_Hispanic,male,True,False
+170,45-49,"White, alone",non_Hispanic,male,True,True
+171,45-49,"White, alone",non_Hispanic,male,True,False
+172,45-49,"White, alone",non_Hispanic,male,False,True
+173,45-49,"White, alone",non_Hispanic,male,True,False
+174,45-49,"White, alone",non_Hispanic,male,True,True
+175,45-49,"White, alone",non_Hispanic,male,False,False
+176,45-49,"White, alone",non_Hispanic,male,True,False
+177,45-49,"White, alone",non_Hispanic,male,False,True
+178,45-49,"White, alone",non_Hispanic,male,False,True
+179,45-49,"White, alone",non_Hispanic,male,True,True
+180,45-49,"White, alone",non_Hispanic,male,True,True
+181,45-49,"White, alone",non_Hispanic,male,False,True
+182,45-49,"White, alone",non_Hispanic,male,False,False
+183,45-49,"White, alone",non_Hispanic,male,False,True
+184,45-49,"White, alone",non_Hispanic,male,True,False
+185,45-49,"White, alone",non_Hispanic,male,True,False
+186,45-49,"White, alone",non_Hispanic,male,True,True
+187,45-49,"White, alone",non_Hispanic,male,True,True
+188,45-49,"White, alone",non_Hispanic,male,False,False
+189,45-49,"Black or African American, alone",non_Hispanic,male,False,True
+190,45-49,"American Indian and Alaska Native, alone",non_Hispanic,male,False,True
+191,45-49," Asian, alone",non_Hispanic,male,True,False
+192,45-49,Two or more races,non_Hispanic,male,False,False
+193,50-54,"White, alone",non_Hispanic,male,False,True
+194,50-54,"White, alone",non_Hispanic,male,True,True
+195,50-54,"White, alone",non_Hispanic,male,True,False
+196,50-54,"White, alone",non_Hispanic,male,True,True
+197,50-54,"White, alone",non_Hispanic,male,False,True
+198,50-54,"White, alone",non_Hispanic,male,True,True
+199,50-54,"White, alone",non_Hispanic,male,True,True
+200,50-54,"White, alone",non_Hispanic,male,False,False
+201,50-54,"White, alone",non_Hispanic,male,True,True
+202,50-54,"White, alone",non_Hispanic,male,True,True
+203,50-54,"White, alone",non_Hispanic,male,True,True
+204,50-54,"White, alone",non_Hispanic,male,False,False
+205,50-54,"White, alone",non_Hispanic,male,False,True
+206,50-54,"White, alone",non_Hispanic,male,True,False
+207,50-54,"White, alone",non_Hispanic,male,False,True
+208,50-54,"White, alone",non_Hispanic,male,False,False
+209,50-54,"White, alone",non_Hispanic,male,True,False
+210,50-54,"White, alone",non_Hispanic,male,True,True
+211,50-54,"White, alone",non_Hispanic,male,False,True
+212,50-54,"White, alone",non_Hispanic,male,True,False
+213,50-54,"White, alone",non_Hispanic,male,True,False
+214,50-54,"White, alone",non_Hispanic,male,True,True
+215,50-54,"White, alone",non_Hispanic,male,False,True
+216,50-54,"Black or African American, alone",non_Hispanic,male,True,True
+217,50-54,"Some other race, alone",non_Hispanic,male,True,False
+218,50-54,"Some other race, alone",non_Hispanic,male,True,False
+219,55-59,"White, alone",non_Hispanic,male,True,True
+220,55-59,"White, alone",non_Hispanic,male,False,True
+221,55-59,"White, alone",non_Hispanic,male,False,False
+222,55-59,"White, alone",non_Hispanic,male,False,True
+223,55-59,"White, alone",non_Hispanic,male,False,False
+224,55-59,"White, alone",non_Hispanic,male,False,True
+225,55-59,"White, alone",non_Hispanic,male,True,True
+226,55-59,"White, alone",non_Hispanic,male,True,True
+227,55-59,"White, alone",non_Hispanic,male,True,True
+228,55-59,"White, alone",non_Hispanic,male,True,False
+229,55-59,"White, alone",non_Hispanic,male,False,False
+230,55-59,"White, alone",non_Hispanic,male,True,False
+231,55-59,"White, alone",non_Hispanic,male,False,True
+232,55-59,"White, alone",non_Hispanic,male,True,True
+233,55-59,"White, alone",non_Hispanic,male,False,True
+234,55-59,"White, alone",non_Hispanic,male,True,True
+235,55-59,"White, alone",non_Hispanic,male,False,False
+236,55-59,"White, alone",non_Hispanic,male,True,False
+237,55-59,"White, alone",non_Hispanic,male,False,False
+238,55-59,"White, alone",non_Hispanic,male,False,True
+239,55-59,"White, alone",non_Hispanic,male,True,False
+240,55-59,"White, alone",non_Hispanic,male,False,False
+241,55-59,"White, alone",non_Hispanic,male,True,False
+242,55-59,"White, alone",non_Hispanic,male,False,True
+243,55-59,"White, alone",non_Hispanic,male,False,True
+244,55-59,"White, alone",non_Hispanic,male,True,True
+245,55-59,"White, alone",non_Hispanic,male,False,False
+246,55-59,"Black or African American, alone",non_Hispanic,male,True,False
+247,55-59,"Black or African American, alone",non_Hispanic,male,False,True
+248,55-59,"Black or African American, alone",non_Hispanic,male,True,False
+249,55-59,"Black or African American, alone",non_Hispanic,male,True,True
+250,55-59,"Black or African American, alone",non_Hispanic,male,False,False
+251,55-59," Asian, alone",non_Hispanic,male,True,False
+252,55-59,Two or more races,non_Hispanic,male,False,True
+253,55-59,Two or more races,non_Hispanic,male,True,False
+254,60-64,"White, alone",non_Hispanic,male,True,True
+255,60-64,"White, alone",non_Hispanic,male,True,False
+256,60-64,"White, alone",non_Hispanic,male,True,False
+257,60-64,"White, alone",non_Hispanic,male,False,False
+258,60-64,"White, alone",non_Hispanic,male,True,True
+259,60-64,"White, alone",non_Hispanic,male,True,False
+260,60-64,"White, alone",non_Hispanic,male,True,True
+261,60-64,"White, alone",non_Hispanic,male,True,True
+262,60-64,"White, alone",non_Hispanic,male,False,True
+263,60-64,"White, alone",non_Hispanic,male,False,True
+264,60-64,"White, alone",non_Hispanic,male,True,False
+265,60-64,"White, alone",non_Hispanic,male,True,False
+266,60-64,"White, alone",non_Hispanic,male,True,True
+267,60-64,"White, alone",non_Hispanic,male,True,True
+268,60-64,"White, alone",non_Hispanic,male,False,True
+269,60-64,"White, alone",non_Hispanic,male,True,True
+270,60-64,"White, alone",non_Hispanic,male,True,True
+271,60-64,"White, alone",non_Hispanic,male,True,False
+272,60-64,"White, alone",non_Hispanic,male,False,False
+273,60-64,"White, alone",non_Hispanic,male,True,True
+274,60-64,"White, alone",non_Hispanic,male,False,False
+275,60-64,"White, alone",non_Hispanic,male,False,False
+276,60-64,"White, alone",non_Hispanic,male,True,False
+277,60-64,"White, alone",non_Hispanic,male,True,True
+278,60-64,"White, alone",non_Hispanic,male,True,True
+279,60-64,"White, alone",non_Hispanic,male,False,False
+280,60-64,"White, alone",non_Hispanic,male,False,True
+281,60-64,"White, alone",non_Hispanic,male,False,True
+282,60-64,"White, alone",non_Hispanic,male,True,False
+283,60-64,"White, alone",non_Hispanic,male,True,False
+284,60-64,"White, alone",non_Hispanic,male,False,True
+285,60-64,"White, alone",non_Hispanic,male,True,False
+286,60-64,"Black or African American, alone",non_Hispanic,male,False,True
+287,60-64,"Black or African American, alone",non_Hispanic,male,False,True
+288,60-64,"Black or African American, alone",non_Hispanic,male,True,True
+289,60-64,"Black or African American, alone",non_Hispanic,male,True,False
+290,60-64,"Some other race, alone",non_Hispanic,male,False,True
+291,65-69,"White, alone",non_Hispanic,male,True,False
+292,65-69,"White, alone",non_Hispanic,male,False,True
+293,65-69,"White, alone",non_Hispanic,male,False,False
+294,65-69,"White, alone",non_Hispanic,male,False,True
+295,65-69,"White, alone",non_Hispanic,male,True,False
+296,65-69,"White, alone",non_Hispanic,male,True,True
+297,65-69,"White, alone",non_Hispanic,male,False,True
+298,65-69,"White, alone",non_Hispanic,male,False,False
+299,65-69,"White, alone",non_Hispanic,male,True,True
+300,65-69,"White, alone",non_Hispanic,male,False,True
+301,65-69,"White, alone",non_Hispanic,male,True,True
+302,65-69,"White, alone",non_Hispanic,male,False,True
+303,65-69,"White, alone",non_Hispanic,male,False,True
+304,65-69,"White, alone",non_Hispanic,male,False,False
+305,65-69,"White, alone",non_Hispanic,male,True,True
+306,65-69,"White, alone",non_Hispanic,male,False,False
+307,65-69,"White, alone",non_Hispanic,male,False,True
+308,65-69,"White, alone",non_Hispanic,male,False,False
+309,65-69,"White, alone",non_Hispanic,male,False,False
+310,65-69,"White, alone",non_Hispanic,male,True,True
+311,65-69,"White, alone",non_Hispanic,male,True,False
+312,65-69,"White, alone",non_Hispanic,male,True,True
+313,65-69,"White, alone",non_Hispanic,male,True,False
+314,65-69,"White, alone",non_Hispanic,male,False,True
+315,65-69,"White, alone",non_Hispanic,male,False,True
+316,65-69,"White, alone",non_Hispanic,male,False,True
+317,65-69,"White, alone",non_Hispanic,male,True,True
+318,65-69,"White, alone",non_Hispanic,male,False,False
+319,65-69,"White, alone",non_Hispanic,male,False,False
+320,65-69,"Black or African American, alone",non_Hispanic,male,False,False
+321,65-69,"American Indian and Alaska Native, alone",non_Hispanic,male,False,False
+322,65-69,"Some other race, alone",non_Hispanic,male,True,False
+323,65-69,"Some other race, alone",non_Hispanic,male,True,False
+324,65-69,"Some other race, alone",non_Hispanic,male,False,False
+325,65-69,Two or more races,non_Hispanic,male,False,False
+326,70-74,"White, alone",non_Hispanic,male,False,True
+327,70-74,"White, alone",non_Hispanic,male,False,True
+328,70-74,"White, alone",non_Hispanic,male,True,True
+329,70-74,"White, alone",non_Hispanic,male,False,True
+330,70-74,"White, alone",non_Hispanic,male,False,True
+331,70-74,"White, alone",non_Hispanic,male,False,False
+332,70-74,"White, alone",non_Hispanic,male,True,False
+333,70-74,"White, alone",non_Hispanic,male,False,True
+334,70-74,"White, alone",non_Hispanic,male,True,False
+335,70-74,"White, alone",non_Hispanic,male,True,True
+336,70-74,"White, alone",non_Hispanic,male,False,True
+337,70-74,"White, alone",non_Hispanic,male,True,False
+338,70-74,"White, alone",non_Hispanic,male,False,False
+339,70-74,"White, alone",non_Hispanic,male,True,True
+340,70-74,"White, alone",non_Hispanic,male,True,False
+341,70-74,"White, alone",non_Hispanic,male,True,False
+342,70-74,"White, alone",non_Hispanic,male,True,True
+343,70-74,"White, alone",non_Hispanic,male,True,True
+344,70-74,"White, alone",non_Hispanic,male,True,False
+345,70-74,"White, alone",non_Hispanic,male,True,True
+346,70-74,"White, alone",non_Hispanic,male,True,False
+347,70-74,"White, alone",non_Hispanic,male,False,True
+348,70-74,"White, alone",non_Hispanic,male,True,True
+349,70-74,"White, alone",non_Hispanic,male,True,False
+350,70-74,"White, alone",non_Hispanic,male,False,False
+351,70-74,"White, alone",non_Hispanic,male,False,True
+352,70-74,"White, alone",non_Hispanic,male,True,False
+353,70-74,"White, alone",non_Hispanic,male,False,False
+354,70-74,"White, alone",non_Hispanic,male,True,True
+355,70-74,"White, alone",non_Hispanic,male,False,True
+356,70-74,"White, alone",non_Hispanic,male,False,True
+357,70-74,"White, alone",non_Hispanic,male,True,True
+358,70-74,"White, alone",non_Hispanic,male,False,True
+359,70-74,"White, alone",non_Hispanic,male,False,True
+360,70-74,"White, alone",non_Hispanic,male,True,True
+361,70-74,"White, alone",non_Hispanic,male,True,False
+362,70-74,"White, alone",non_Hispanic,male,True,True
+363,70-74,"White, alone",non_Hispanic,male,False,True
+364,70-74,"White, alone",non_Hispanic,male,True,True
+365,70-74,"White, alone",non_Hispanic,male,True,False
+366,70-74,"White, alone",non_Hispanic,male,False,False
+367,70-74,"White, alone",non_Hispanic,male,True,False
+368,70-74,"White, alone",non_Hispanic,male,True,False
+369,70-74,"White, alone",non_Hispanic,male,False,True
+370,70-74,"White, alone",non_Hispanic,male,False,True
+371,70-74,"White, alone",non_Hispanic,male,False,False
+372,70-74,"White, alone",non_Hispanic,male,False,True
+373,70-74,"White, alone",non_Hispanic,male,False,False
+374,70-74,"White, alone",non_Hispanic,male,True,False
+375,70-74,"White, alone",non_Hispanic,male,False,True
+376,70-74,"White, alone",non_Hispanic,male,True,False
+377,70-74,"White, alone",non_Hispanic,male,True,True
+378,70-74,"White, alone",non_Hispanic,male,False,False
+379,70-74,"White, alone",non_Hispanic,male,True,False
+380,70-74,"White, alone",non_Hispanic,male,False,False
+381,70-74,"Black or African American, alone",non_Hispanic,male,False,False
+382,70-74,"Black or African American, alone",non_Hispanic,male,True,False
+383,70-74,"Black or African American, alone",non_Hispanic,male,False,True
+384,70-74," Asian, alone",non_Hispanic,male,False,True
+385,70-74,Two or more races,non_Hispanic,male,True,True
+386,70-74,Two or more races,non_Hispanic,male,False,True
+387,70-74,Two or more races,non_Hispanic,male,True,False
+388,75-79,"White, alone",non_Hispanic,male,False,True
+389,75-79,"White, alone",non_Hispanic,male,False,True
+390,75-79,"White, alone",non_Hispanic,male,False,False
+391,75-79,"White, alone",non_Hispanic,male,True,True
+392,75-79,"White, alone",non_Hispanic,male,True,True
+393,75-79,"White, alone",non_Hispanic,male,True,False
+394,75-79,"White, alone",non_Hispanic,male,False,True
+395,75-79,"White, alone",non_Hispanic,male,False,False
+396,75-79,"White, alone",non_Hispanic,male,True,True
+397,75-79,"White, alone",non_Hispanic,male,True,True
+398,75-79,"White, alone",non_Hispanic,male,False,False
+399,75-79,"White, alone",non_Hispanic,male,False,True
+400,75-79,"White, alone",non_Hispanic,male,True,False
+401,75-79,"White, alone",non_Hispanic,male,False,False
+402,75-79,"White, alone",non_Hispanic,male,True,False
+403,75-79,"White, alone",non_Hispanic,male,False,True
+404,75-79,"White, alone",non_Hispanic,male,True,False
+405,75-79,"White, alone",non_Hispanic,male,False,False
+406,75-79,"White, alone",non_Hispanic,male,False,True
+407,75-79,"White, alone",non_Hispanic,male,False,True
+408,75-79,"White, alone",non_Hispanic,male,True,True
+409,75-79,"White, alone",non_Hispanic,male,True,False
+410,75-79,"White, alone",non_Hispanic,male,True,False
+411,75-79,"White, alone",non_Hispanic,male,True,False
+412,75-79,"White, alone",non_Hispanic,male,True,True
+413,75-79,"White, alone",non_Hispanic,male,True,True
+414,75-79,"White, alone",non_Hispanic,male,True,True
+415,75-79,"White, alone",non_Hispanic,male,False,False
+416,75-79,"White, alone",non_Hispanic,male,False,False
+417,75-79,"White, alone",non_Hispanic,male,False,False
+418,75-79,"White, alone",non_Hispanic,male,False,True
+419,75-79,"White, alone",non_Hispanic,male,True,False
+420,75-79,"White, alone",non_Hispanic,male,True,False
+421,75-79,"White, alone",non_Hispanic,male,True,True
+422,75-79,"White, alone",non_Hispanic,male,False,True
+423,75-79,"White, alone",non_Hispanic,male,True,True
+424,75-79,"White, alone",non_Hispanic,male,True,False
+425,75-79,"White, alone",non_Hispanic,male,False,True
+426,75-79,"White, alone",non_Hispanic,male,False,True
+427,75-79,"White, alone",non_Hispanic,male,True,True
+428,75-79,"Black or African American, alone",non_Hispanic,male,True,False
+429,75-79,"Black or African American, alone",non_Hispanic,male,False,True
+430,75-79,"Black or African American, alone",non_Hispanic,male,True,False
+431,75-79,"Black or African American, alone",non_Hispanic,male,False,False
+432,75-79,"Black or African American, alone",non_Hispanic,male,True,False
+433,75-79,"Some other race, alone",non_Hispanic,male,False,False
+434,75-79,"Some other race, alone",non_Hispanic,male,False,False
+435,75-79,"Some other race, alone",non_Hispanic,male,True,True
+436,75-79,Two or more races,non_Hispanic,male,True,False
+437,80-84,"White, alone",non_Hispanic,male,True,False
+438,80-84,"White, alone",non_Hispanic,male,True,False
+439,80-84,"White, alone",non_Hispanic,male,False,False
+440,80-84,"White, alone",non_Hispanic,male,True,False
+441,80-84,"White, alone",non_Hispanic,male,True,True
+442,80-84,"White, alone",non_Hispanic,male,True,False
+443,80-84,"White, alone",non_Hispanic,male,False,True
+444,80-84,"White, alone",non_Hispanic,male,False,False
+445,80-84,"White, alone",non_Hispanic,male,True,True
+446,80-84,"White, alone",non_Hispanic,male,False,False
+447,80-84,"White, alone",non_Hispanic,male,True,False
+448,80-84,"White, alone",non_Hispanic,male,True,True
+449,80-84,"White, alone",non_Hispanic,male,True,False
+450,80-84,"White, alone",non_Hispanic,male,False,True
+451,80-84,"White, alone",non_Hispanic,male,False,True
+452,80-84,"White, alone",non_Hispanic,male,True,True
+453,80-84,"White, alone",non_Hispanic,male,False,False
+454,80-84,"White, alone",non_Hispanic,male,False,False
+455,80-84,"White, alone",non_Hispanic,male,False,True
+456,80-84,"White, alone",non_Hispanic,male,False,False
+457,80-84,"Black or African American, alone",non_Hispanic,male,False,False
+458,80-84,"Black or African American, alone",non_Hispanic,male,True,False
+459,80-84,"Black or African American, alone",non_Hispanic,male,False,True
+460,80-84,"Black or African American, alone",non_Hispanic,male,False,False
+461,80-84,"American Indian and Alaska Native, alone",non_Hispanic,male,False,False
+462,80-84,"Some other race, alone",non_Hispanic,male,True,False
+463,80-84,Two or more races,non_Hispanic,male,False,True
+464,85+,"White, alone",non_Hispanic,male,True,False
+465,85+,"White, alone",non_Hispanic,male,False,True
+466,85+,"White, alone",non_Hispanic,male,True,True
+467,85+,"White, alone",non_Hispanic,male,False,True
+468,85+,"White, alone",non_Hispanic,male,False,True
+469,85+,"White, alone",non_Hispanic,male,False,True
+470,85+,"White, alone",non_Hispanic,male,True,False
+471,85+,"White, alone",non_Hispanic,male,True,True
+472,85+,"White, alone",non_Hispanic,male,True,True
+473,85+,"White, alone",non_Hispanic,male,False,True
+474,85+,"White, alone",non_Hispanic,male,True,True
+475,85+,"White, alone",non_Hispanic,male,True,True
+476,85+,"White, alone",non_Hispanic,male,False,True
+477,85+,"White, alone",non_Hispanic,male,False,True
+478,85+,"White, alone",non_Hispanic,male,True,True
+479,85+,"White, alone",non_Hispanic,male,True,True
+480,85+,"White, alone",non_Hispanic,male,False,True
+481,85+,"White, alone",non_Hispanic,male,False,False
+482,85+,"White, alone",non_Hispanic,male,False,False
+483,85+,"White, alone",non_Hispanic,male,True,False
+484,85+,"White, alone",non_Hispanic,male,True,True
+485,85+,"White, alone",non_Hispanic,male,False,False
+486,85+,"White, alone",non_Hispanic,male,False,False
+487,85+,"White, alone",non_Hispanic,male,True,False
+488,85+,"White, alone",non_Hispanic,male,False,True
+489,85+,"White, alone",non_Hispanic,male,False,False
+490,85+,"White, alone",non_Hispanic,male,False,True
+491,85+,"White, alone",non_Hispanic,male,True,True
+492,85+,"White, alone",non_Hispanic,male,False,False
+493,85+,"White, alone",non_Hispanic,male,False,True
+494,85+,"Black or African American, alone",non_Hispanic,male,True,False
+495,85+,"Black or African American, alone",non_Hispanic,male,False,False
+496,85+,"Black or African American, alone",non_Hispanic,male,True,False
+497,85+,"Black or African American, alone",non_Hispanic,male,True,True
+498,85+,"American Indian and Alaska Native, alone",non_Hispanic,male,False,False
+499,85+,"Some other race, alone",non_Hispanic,male,False,False
