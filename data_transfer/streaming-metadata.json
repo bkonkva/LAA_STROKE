@@ -1,0 +1,24 @@
+[{
+	"StreamingProject": "MONAIREVIEWER",
+	"Stack": "monaireviewer_lin_stack",
+	"Fleet": "monaireviewer-fleet-win",
+	"ImageAppId": "start-monai-label-server",
+	"Metadata": {
+        "Application": [
+			{"displayText": "Radiology", "value": "radiology"}
+		],
+		"Dataset": [
+			{"displayText": "SELECT DATASET", "value": "ANNOTATION_REVIEW/TEST/images"},
+			{"displayText": "Dmitry Cases", "value": "ANNOTATION_REVIEW/DMITRY_LEVIN/images"},
+            {"displayText": "Beth Cases", "value": "ANNOTATION_REVIEW/BETH_RIPLEY/images"},
+            {"displayText": "Greg Cases", "value": "ANNOTATION_REVIEW/GREG_KICSKA/images"},
+            {"displayText": "Creighton Cases", "value": "ANNOTATION_REVIEW/CREIGHTON_DON/images"}
+		],
+		"Model": [
+			{"displayText": "Segmentation", "value": "segmentation"}
+        ],
+		"Bucket": [
+			{"owner": "ricardo.pizarro@va.gov,brandon.konkel@va.gov,nicole.delgado@va.gov,beth.ripley2@va.gov,dmitry.levin@va.gov,gregory.kicska@va.gov,creighton.don@va.gov", "displayText": "LAA and Stroke", "value": "project-sic-s3", "fileShareId": "share-97F163E0"}
+		]
+	}
+}]
